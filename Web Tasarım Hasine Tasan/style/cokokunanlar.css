@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+.cokokunanlar {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+.cokokunanlar img {
+    width: 100%;
+    height: 100%;
+}
